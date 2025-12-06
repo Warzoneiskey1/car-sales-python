@@ -24,6 +24,6 @@
 ### Sample output
 ![Top 10 Models](top_models.png) *(image will appear when you run the notebook)*
 
-Built in February 2026 while learning Python full-time at Mauvin Data Technology, Lagos.
+Built in December 2025 while learning Python full-time at Mauvin Data Technology, Lagos.
 
 Ready to clean your data too? Message me on Upwork!
